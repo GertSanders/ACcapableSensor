@@ -1,0 +1,58 @@
+Partlist
+
+Exported from AC based repeater V3.sch at 03/12/15 20:24
+
+EAGLE Version 7.3.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value                    Device                   Package                                         Library      Sheet
+
+AAA1     AAA Battery              AAABATTERYPLUSPIN        AAABATTERYHOLDERPLUSPIN                         GertSanders  1
+AAA2     AAA Battery              AAABATTERYMINPIN         AAABATTERYHOLDERMINPIN                          GertSanders  1
+ACIN                              W237-102                 W237-102                                        con-wago-500 1
+AMS1117  REG1117                  REG1117                  SOT223                                          BaseApp      1
+AT24C-1  AT24C512C-SSHM           AT24C32SOIC8             SOIC8                                           GertSanders  1
+AT24C-2  AT24C512C-SSHM           AT24C32SOIC8             SOIC8                                           GertSanders  1
+ATSHA    ATSHA204A                ATSHA204A                SOT23-R                                         GertSanders  1
+BAT                               SJ                       SJ                                              jumper       1
+C1       10uF                     CPOL-EUE2.5-5            E2,5-5                                          rcl          1
+C2       100nF                    C-EU025-025X050          C025-025X050                                    GertSanders  1
+C3       100nF                    C-EU025-025X050          C025-025X050                                    GertSanders  1
+C4       100nF                    C-EU025-025X050          C025-025X050                                    GertSanders  1
+C5       100nF                    C-EU025-025X050          C025-025X050                                    GertSanders  1
+C6       18pF                     C-EU025-025X050          C025-025X050                                    GertSanders  1
+C7       18pF                     C-EU025-025X050          C025-025X050                                    GertSanders  1
+C8       100uF                    CPOL-EUE3.5-8            E3,5-8                                          rcl          1
+C9       10uF                     CPOL-EUE2.5-5            E2,5-5                                          rcl          1
+C10      100nF                    C-EU025-025X050          C025-025X050                                    GertSanders  1
+C11      100uF                    CPOL-EUE3.5-8            E3,5-8                                          rcl          1
+D1       1N4004                   1N4004                   DO41-10                                         diode        1
+D2                                PINHD-1X3PTH             1X03                                            digital-toy  1
+D3                                PINHD-1X3PTH             1X03                                            digital-toy  1
+D4                                PINHD-1X3PTH             1X03                                            digital-toy  1
+D5                                PINHD-1X3PTH             1X03                                            digital-toy  1
+D6                                PINHD-1X3PTH             1X03                                            digital-toy  1
+D7                                PINHD-1X3PTH             1X03                                            digital-toy  1
+FUSE     Slow Blow 250mA 250VAC   R-EU_0411/3V             0411V                                           rcl          1
+HLK-PM01 HLK-PM01                 HLK-PM01                 HLK-PM01                                        GertSanders  1
+INT                               SJ                       SJ                                              jumper       1
+JP2                               PINHD-2X11               2X11                                            pinhead      1
+LED      3mm                      LED3MM                   LED3MM                                          adafruit     1
+M2       WIRELESS-NRF24L01-PA-EXT WIRELESS-NRF24L01-PA-EXT WIRELESS-NRD24L01-PA-EXT                        GertSanders  1
+M3       WIRELESS-NRF24L01        WIRELESS-NRF24L01        WIRELESS-NRF24L01                               GertSanders  1
+PWR      HEADER1X2                HEADER1X2                HEADER1X2                                       anton        1
+PWR1     HEADER1X2                HEADER1X2                HEADER1X2                                       anton        1
+Q1       8/16MHz                  CRYSTALHC49U-V           HC49U-V                                         crystal      1
+R1       10K                      R-EU_0207/7              0207/7                                          rcl          1
+R2       4K7                      R-EU_0207/7              0207/7                                          rcl          1
+R3       4K7                      R-EU_0207/7              0207/7                                          rcl          1
+R4       220                      R-EU_0207/7              0207/7                                          rcl          1
+R5       56K                      R-EU_0207/7              0207/7                                          rcl          1
+RSCL                              SJ                       SJ                                              jumper       1
+RSDA                              SJ                       SJ                                              jumper       1
+SCL                               JUMPER-PAD-3-NC_BY_TRACE PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX GertSanders  1
+SDA                               JUMPER-PAD-3-NC_BY_TRACE PAD-JUMPER-3-3OF3_NC_BY_TRACE_YES_SILK_FULL_BOX GertSanders  1
+SG053    SG053-SZ                 SG053-SZ                 SG053-SZ                                        GertSanders  1
+SIM800   SIM800LV1                SIM800LV1                SIM800LV1                                       GertSanders  1
+U1       ATMEGA328P_PDIP          ATMEGA328P_PDIP          DIL28-3                                         GertSanders  1
